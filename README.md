@@ -14,8 +14,6 @@ Rockbuster Stealth Business Insights: Utilizing data analysis to develop strateg
 
 InstaCart Marketing Strategies: Generating data-driven marketing strategies based on consumer segmentation and purchasing habits to enhance customer engagement and sales efficiency.
 
-Pig.E Bank Customer Attrition Analysis:
-
-An exploratory analysis to identify key factors driving customer attrition in a global bank, with recommendations for targeted retention strategies.
+Pig.E Bank Customer Attrition Analysis: An exploratory analysis to identify key factors driving customer attrition in a global bank, with recommendations for targeted retention strategies.
 
 Each project showcases my capabilities in data cleaning, statistical hypothesis testing, visual storytelling, and strategic recommendations. I am passionate about using data to uncover trends, solve problems, and support business growth. Please explore my projects to see the depth of my analytical skills and feel free to reach out for any collaboration or professional opportunities.
